@@ -6,7 +6,7 @@ Download the summary of the semester from Neptun, then convert the .xlsx file to
 It should then print out your averages.
 
 ## Example
-´´´
+```
 Input:
 Tárgykód,"Tárgy címe, előadó neve",Kr.,Köv.,Óra heti (E/GY/L),Óra féléves (E/GY/L),Aláírás,Jegyek,Megjegyzés,Várólista,Teljesített,,,,,,,,,,,
 IP-08JMIE,"Jogi-és menedzsment ismeretek EA. (BSc 08),  Balázs Krisztina Eszter dr.",2,Kollokvium (5),0/0/2,,,Jeles Balázs Krisztina Eszter dr. 2016.05.24. ,,,Igen,,,,,,,,,,,677377932
@@ -20,8 +20,8 @@ IP-08aFNYG,"Formális nyelvek és automaták GY (BSc,08,A),  Kolonits Gábor, Cs
 IP-08aFNYE,"Formális nyelvek és automaták EA (BSc, 08,A),  Csuhaj Varjú Erzsébet",2,Kollokvium (5),0/0/2,,,Közepes Csuhaj Varjú Erzsébet 2016.05.25. ,,,Igen,,,,,,,,,,,679071424
 IP-08aAN1E,"Analízis 1. EA. (BSc,08,A),  Szili László",3,Kollokvium (5),0/0/2,,,Jó Szili László 2016.06.06. ,,,Igen,,,,,,,,,,,679071719
 IP-08aPNY1EG,"Programozási nyelvek I. C++ EA+GY. (BSc,08,A),  Parragi Zsolt, Pataki Norbert, Porkoláb Zoltán",5,gyakorlati jegy (5),0/0/4,,,Jó Pataki Norbert 2016.06.02. ,,,Igen,,,,,,,,,,,679072698
-´´´
-´´´
+```
+```
 Output:
 Kreditindex: 5.23333333333
-´´´
+```
