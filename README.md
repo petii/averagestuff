@@ -1,4 +1,4 @@
-# averagestuff
+# Averagest Uff
 A simple python script to calculate the averages of the semester.
 
 ## Usage

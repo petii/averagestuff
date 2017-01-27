@@ -4,11 +4,13 @@
 from sys import argv
 import codecs
 
-marks = { u'Jeles'		: 5,
-		  u'Jó'			: 4,
-		  u'Közepes'	: 3,
-		  u'Elégséges'	: 2,
-		  u'Elégtelen'	: 1 }
+marks = { 
+	u'Jeles'	: 5,
+	u'Jó'	: 4,
+	u'Közepes'	: 3,
+	u'Elégséges'	: 2,
+	u'Elégtelen'	: 1 
+}
 
 def replacecomma(text):
 	newText = ''
@@ -60,5 +62,5 @@ if len(argv) > 1 :
 	process(file)
 else:
 	print 'Usage: atlag.py <file>'
-	print '\twhere <file> should be the path to a .csv file'
+	print '\twhere <file> should be the path to a .csv file (or well any file, if it\'s comma-separated and is in the same format...)'
 	
